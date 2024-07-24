@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergelen</h1>
 <h3 align="center">A passionate software engineer from Japan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmak1234" alt="kmak1234" /></a> </p>
-
 - 🔭 I’m currently working on [Workjoy](https://www.sozo-saitama.or.jp/workjoy/)
 
 - 🌱 I’m currently learning **Swift**
