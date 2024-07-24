@@ -26,3 +26,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmak1234&show_icons=true&locale=en&layout=compact" alt="kmak1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmak1234&" alt="kmak1234" /></p>
+[![Kmak1234's GitHub | Stats](https://stats.quira.sh/Kmak1234/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Kmak1234)
