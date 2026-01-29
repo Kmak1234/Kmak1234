@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergelen</h1>
 <h3 align="center">A passionate software engineer from Japan</h3>
 
-- 🔭 I’m currently working on [Workjoy](https://www.sozo-saitama.or.jp/workjoy/)
+- 🔭 I’m currently working on pts system
 
 - 🌱 I’m currently learning **Golang**
 
